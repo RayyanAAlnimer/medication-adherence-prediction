@@ -1,0 +1,11 @@
+# Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Generated data (the original publicly licensed source is tracked)
+data/processed/
